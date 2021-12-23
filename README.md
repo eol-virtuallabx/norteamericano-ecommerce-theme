@@ -1,3 +1,3 @@
-# Uabierta Ecommerce Theme
+# Norteamericano Ecommerce Theme
 
-Compatible with Eol Ecommerce Juniper. Assumes that the ```eol_basket_app.js``` file exists.
+Compatible with Ecommerce Koa. Assumes that the ```eol_basket_app.js``` file exists.
